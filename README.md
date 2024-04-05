@@ -35,6 +35,27 @@ Para começar você precisa ter uma conta no Microsoft Azure
 11. Agora fazer o Upload dos arquivos que estão dispoiniveis em (https://aka.ms/mslearn-coffee-reviews)
 ![print](https://raw.githubusercontent.com/arthurspider1991/Azure-Cognitive-Search/main/prints/image%2011.JPG)
 
+
 ## AI Search
 
 1. Voltando a Home do portal, vamos entrar no recurso  AI Search que criamos anteriormente
+![image](https://raw.githubusercontent.com/arthurspider1991/Azure-Cognitive-Search/main/prints/image%2012.JPG)
+2. Clique em Import data
+![image](https://raw.githubusercontent.com/arthurspider1991/Azure-Cognitive-Search/main/prints/image%2013.JPG)
+3. Selecione a opção Azure Blob Storage, coloque um nome para o recurso e clique em Choose an Existng connection
+![image](https://raw.githubusercontent.com/arthurspider1991/Azure-Cognitive-Search/main/prints/image%2014.JPG)
+4. Clique na Storage Account que você criou
+![image](https://raw.githubusercontent.com/arthurspider1991/Azure-Cognitive-Search/main/prints/image%2015.JPG)
+5. Selecione o Container que foi criado com os arquivos anteriormente 
+![image](https://raw.githubusercontent.com/arthurspider1991/Azure-Cognitive-Search/main/prints/image%2017.JPG)
+6. Depois finalize o preenchimento das isnformações com uma descrição e clique em Next
+![image](https://raw.githubusercontent.com/arthurspider1991/Azure-Cognitive-Search/main/prints/image%2018.JPG)
+![image]()
+![image]()
+![image]()
+![image]()
+
+
+
+
+
